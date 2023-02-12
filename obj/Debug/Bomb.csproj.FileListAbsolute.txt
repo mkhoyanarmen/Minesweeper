@@ -1,0 +1,14 @@
+C:\Users\armen\source\repos\Bomb\Bomb\bin\Debug\Ական.exe.config
+C:\Users\armen\source\repos\Bomb\Bomb\bin\Debug\Ական.exe
+C:\Users\armen\source\repos\Bomb\Bomb\bin\Debug\Ական.pdb
+C:\Users\armen\source\repos\Bomb\Bomb\obj\Debug\Bomb.csproj.AssemblyReference.cache
+C:\Users\armen\source\repos\Bomb\Bomb\obj\Debug\Bomb.csproj.SuggestedBindingRedirects.cache
+C:\Users\armen\source\repos\Bomb\Bomb\obj\Debug\Bomb.AboutGame.resources
+C:\Users\armen\source\repos\Bomb\Bomb\obj\Debug\Bomb.frmGame.resources
+C:\Users\armen\source\repos\Bomb\Bomb\obj\Debug\Ական.frmLogin.resources
+C:\Users\armen\source\repos\Bomb\Bomb\obj\Debug\Ական.frmGovazd.resources
+C:\Users\armen\source\repos\Bomb\Bomb\obj\Debug\Ական.Properties.Resources.resources
+C:\Users\armen\source\repos\Bomb\Bomb\obj\Debug\Bomb.csproj.GenerateResource.cache
+C:\Users\armen\source\repos\Bomb\Bomb\obj\Debug\Bomb.csproj.CoreCompileInputs.cache
+C:\Users\armen\source\repos\Bomb\Bomb\obj\Debug\Ական.exe
+C:\Users\armen\source\repos\Bomb\Bomb\obj\Debug\Ական.pdb
